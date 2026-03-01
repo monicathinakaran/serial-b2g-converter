@@ -1,0 +1,11 @@
+# Ignore Vivado Junk
+*.jou
+*.log
+*.pb
+*.wdb
+*.vcd
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
